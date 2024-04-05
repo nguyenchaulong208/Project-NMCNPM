@@ -1,5 +1,5 @@
 requests
 beautifulsoup4
 pycountry
-python>= 3.12
+
 
