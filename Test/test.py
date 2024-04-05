@@ -63,10 +63,10 @@ for item in find_data:
       get_deadline = new_string.replace(' AoE March 17, 2024 AoE CLOSED','')
       
       
-find_start = re.findall('[0-9][0-9]',get_start.strip())
-find_deadline = re.findall('[0-9][0-9]',get_deadline.strip())
+find_start = re.findall(r'[0-9][0-9]',get_start.strip())
+find_deadline = re.findall(r'[0-9][0-9]',get_deadline.strip())
 
-find_month = re.findall('\D[A-Za-z]+\S',get_deadline.strip())
+find_month = re.findall(r'\D[A-Za-z]+\S',get_deadline.strip())
 deadline = find_start[0]+ '-' + find_deadline[0]+' '+find_month[0] +' '+ find_deadline[1]+find_deadline[2]
 print(deadline)
     
@@ -78,7 +78,7 @@ for item in location:
    for country in countries:
       if country in text_item:
          get_locationContent = text_item.strip()
-         get_location = re.findall('\D[A-Za-z]+\S',get_locationContent)
+         get_location = re.findall(r'\D[A-Za-z]+\S',get_locationContent)
          print(get_location[1]+get_location[2])
 #Get conference
 if get_specific:
