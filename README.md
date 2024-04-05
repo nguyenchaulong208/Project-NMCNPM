@@ -1,4 +1,4 @@
-# Project-NMCNPM
+# Project-Nhập Môn Công Nghệ Phần Mềm
 # IT Conferences Crawler
 ## Mô tả
 Đồ án về việc crawler dữ liệu về các hội nghị về lĩnh vực công nghệ thông tin trên thế giới là một dự án có thể được thực hiện bằng việc sử dụng các kỹ thuật và công cụ để tự động thu thập thông tin từ các trang web và cơ sở dữ liệu liên quan đến các hội nghị quốc tế. Dưới đây là một mô tả chi tiết về đồ án này:
