@@ -1,4 +1,5 @@
 requests
-BeautifulSoup
+beautifulsoup4
 re
 pycountry
+beautifulsoup
