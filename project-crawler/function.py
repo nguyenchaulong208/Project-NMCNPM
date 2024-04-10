@@ -2,12 +2,9 @@ from bs4 import BeautifulSoup
 import requests
 import data_meeting
 
-class SaveData:
- def __init__(self,save_data) -> None:
-    self.model = save_data
 
     #open link
-    def open_link(str_url):
+def open_link(str_url):
         respone = requests.get(str_url)
         soup = BeautifulSoup(respone.content,'html.parser')
         return soup
@@ -28,20 +25,37 @@ class SaveData:
     #             list_ref.append(new_item.get_text())
     #     return list_ref
 
-    def get_infor(contents):
-        find_tag = contents.find_all('td', class_='confname')
-        for item in find_tag:
+def get_infor(contents):
+    data_crawl = []
+    find_tag = contents.find_all('tr')
+    for item in find_tag:
+        for new_item in item.find_all('td'):
             data = data_meeting.InfoMeeting()
-            confer = item.find('a').get_text()
+            confer = new_item.find('td', class_="confname")
             data.conference = confer
-            loca = item.find('td', class_='location').get_text()
+            print(data.conference)
+            loca = new_item.find('td', class_='location')
             data.location = loca
-            deadl = item.find('td', class_='now-deadline').get_text()
+            deadl = new_item.find('td', class_='now-deadline')
             data.deadline = deadl
-            dat =  item.find('td', class_='date').get_text()
+            dat =  new_item.find('td', class_='date')
             data.date = dat
-            notify =  item.find('td', class_='notification').get_text()
+            notify =  new_item.find('td', class_='notification')
             data.notification = notify
-            submission = item.find('td', class_='subformat').get_text()
+            submission = new_item.find('td', class_='subformat')
             data.rules = submission
+            data_crawl.append(data)
+    return data_crawl
+
+     
             
+def show(data):
+     for item in data:
+        print(f"Conference: {item.conference}")
+        print(f"Location: {item.location}")
+        print(f"Deadline: {item.deadline}")
+        print(f"Date: {item.date}")
+        print(f"Notification: {item.notification}")
+        print(f"Rules: {item.rules}")
+        print("-" * 30)
+     
