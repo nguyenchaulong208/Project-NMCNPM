@@ -25,6 +25,7 @@ get_specific = get_content.find_all('a')
 if get_specific:
     for get_link in get_specific:
       data_links.append(get_link.get('href'))  
+      print(data_links.get_text())
 print('-----')
 
 #Open link and get Notification 
