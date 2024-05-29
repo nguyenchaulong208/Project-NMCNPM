@@ -1,0 +1,118 @@
+Conference: FACS ||Location: Milan, Italy ||Deadline: 23/30 May 2024 ||Date: 9-10 September 2024 ||Notification: 3 July 2024 ||Rules: LNCS, 16 pages full, 6 pages short, 16 pages special tract, all excluding references;
+	      co-located with FM ||
+---
+Conference: ADT ||Location: Piscataway, New Jersey, USA ||Deadline: 24/31 May 2024 ||Date: 14-16 October 2024 ||Notification: 19 July 2024 ||Rules: LNCS, 15 pages ||
+---
+Conference: RP ||Location: Vienna, Austria ||Deadline: 27/30 May 2024 ||Date: 25-27 September 2024 ||Notification: 11 July 2024 ||Rules: LNCS, 12 pages excluding references ||
+---
+Conference: APLAS ||Location: Kyoto, Japan ||Deadline: 31 May 2024 ||Date: 22-25 October 2024 ||Notification: 2 August 2024 ||Rules: LNCS, 17 pages excluding references ||
+---
+Conference: GD ||Location: Vienna, Austria ||Deadline: 31 May / 7 June 2024 ||Date: 18-20 September 2024 ||Notification: 20 July 2024 ||Rules: LIPIcs
+	      with own LaTeX class, double-blind,
+	      500 lines regular, 225 lines short,
+	      both excluding front matter and references ||
+---
+Conference: LSFA ||Location: Goiânia, Brazil ||Deadline: 31 May / 7 June 2024 ||Date: 18-20 September 2024 ||Notification: 7 August 2024 ||Rules: EPTCS, 16 pages full, 6 pages short ||
+---
+Conference: IOTSMS ||Location: Malmö, Sweden ||Deadline: 1 June 2024 ||Date: 2-5 September 2024 ||Notification: 15 July 2024 ||Rules: IEEE, 2 column,
+	      8 pages full regular, 6 pages short, 3 pages posters and demos ||
+---
+Conference: AAIM ||Location: Dallas, Texas. USA ||Deadline: 1 June 2024 ||Date: 21-23 September 2024 ||Notification: 1 July 2024 ||Rules: LNCS, 12 pages ||
+---
+Conference: RuleML+RR ||Location: Bucharest, Romania ||Deadline: 1/7 June 2024 ||Date: 16-18 September 2024 ||Notification: 19 July 2024 ||Rules: LNCS, 15 pages long, 8 pages short ||
+---
+Conference: JAF ||Location: Passau, Germany ||Deadline: 2 June 2024 ||Date: 9-11 September 2024 ||Notification: 2 July 2024 ||Rules: 3 pages ||
+---
+Conference: iFM ||Location: Manchester, UK ||Deadline: 3/10 June 2024 ||Date: 13-15 November 2024 ||Notification: 5 August 2024 ||Rules: LNCS, 16 pages regular, 6 pages short ||
+---
+Conference: PoS ||Location: Pune, India ||Deadline: 5 June 2024 ||Date: 20 August 2024 ||Notification: 23 June 2023 ||Rules: CEURART, 1 column,
+	      15 pages long, 8 pages short, both excluding references,8 pages competition solver description;
+	      deadline for competition solver descriptions;
+	      satellite event of SAT ||
+---
+Conference: ALGOWIN ||Location: Egham, United Kingdom ||Deadline: 7 June 2024 ||Date: 5-6 September 2024 ||Notification: 1 August 2024 ||Rules: LNCS,12 pages excluding referenes;
+	      part of ALGO ||
+---
+Conference: SEFM ||Location: Aveiro, Portugal ||Deadline: 7/14 June 2024 ||Date: 4-8 November 2024 ||Notification: 15 August 2024 ||Rules: LNCS, 16 pages excludinge references regular, 8 pages tool ||
+---
+Conference: ICTCS ||Location: Torino, Italy ||Deadline: 9 June 2024 ||Date: 11-13 September 2024 ||Notification: 14 July 2024 ||Rules: LNCS, 12 pages regular, 5 pages communications, both excluding references ||
+---
+Conference: TAP ||Location: Milan, Italy ||Deadline: 12/14 June 2024 ||Date: 9–10 September 2024 ||Notification: 5 July 2024 ||Rules: LNCS, 16 pages regular + tools + case studies, 6 pages short, all excluding references;
+	      co-located with FM ||
+---
+Conference: ICTAC ||Location: Bangkok, Thailand ||Deadline: 14/21 June 2024 ||Date: 25-29 November 2024 ||Notification: 1 September 2024 ||Rules: LNCS, 16 pages excluding references full, 8 pages short and tool ||
+---
+Conference: MLCS ||Location: Vilnius, Lithuania ||Deadline: 15 June 2024 ||Date: 9-13 September 2024 ||Notification: 15 July 2024 ||Rules: LNCS, 16 pages regular, 6 pages short ||
+---
+Conference: LAP ||Location: Dubrovnik, Croatia ||Deadline: 15 June 2024 ||Date: 23-27 September 2024 ||Notification: 1 July 2024 ||Rules: own format ||
+---
+Conference: WISE ||Location: Doha, Qatar ||Deadline: 20/30 June 2024 ||Date: 2-5 December 2024 ||Notification: 30 August 2024 ||Rules: LNCS, double-blind, 15 pages ||
+---
+Conference: TIME ||Location: Montpellier, France ||Deadline: 21 June 2024 ||Date: 28-30 October 2024 ||Notification: 2 August 2024 ||Rules: LIPIcs,
+	      12 pages excluding references + 5 pages appendix ||
+---
+Conference: LPNMR ||Location: Dallas, Texas, USA ||Deadline: 21/28 June 2024 ||Date: 11-14 October 2024 ||Notification: 28 July 2024 ||Rules: LNCS, 13 pages long, 6 pages short ||
+---
+Conference: IPEC ||Location: Egham, United Kingdom ||Deadline: 26/30 June 2024 ||Date: 4-6 September 2024 ||Notification: 5 August 2024 ||Rules: LIPIcs,
+	      no page limit, but only first 12 pages read;
+	      part of ALGO ||
+---
+Conference: ISAAC ||Location: Sydney, Australia ||Deadline: 28 June 2024 ||Date: 8-12 December 2024 ||Notification: 2 September 2024 ||Rules: LIPIcs,
+	      double-blind, 12 pages excluding references ||
+---
+Conference: FedCSIS ||Location: Belgrade, Serbia ||Deadline: 28 May 2024 ||Date: 8-11 September 2024 ||Notification: 18 June 2024 ||Rules: own format,
+	      12 pages full, 6 pages short, 8 pages communication ||
+---
+Conference: ATMOS ||Location: Egham, United Kingdom ||Deadline: 30 June 2024 ||Date: 5-6 September 2024 ||Notification: 31 July 2024 ||Rules: OASIcs,
+	      12 pages excluding references regular, 6 pages short;
+	      part of ALGO ||
+---
+Conference: ALGOCLOUD ||Location: Egham, United Kingdom ||Deadline: 1 July 2024 ||Date: 2-3 September 2024 ||Notification: 31 July 2024 ||Rules: LNCS, 12 pages excluding references regular, 8 pages short, 10 pages survey;
+	      part of ALGO ||
+---
+Conference: ICTAI ||Location: Herndon, Virginia, USA ||Deadline: 1 July 2024 ||Date: 28-30 October 2024 ||Notification: 18 August 2024 ||Rules: IEEE Transactions,
+	      double-blind, 8 pages ||
+---
+Conference: WAOA ||Location: Egham, United Kingdom ||Deadline: 3 July 2024 ||Date: 5-6 September 2024 ||Notification: 31 July 2024 ||Rules: LNCS, double-blind, 10 pages excluding references;
+	      part of ALGO ||
+---
+Conference: FSTTCS ||Location: Gandhinagar, Gujarat, India ||Deadline: 5 July 2024 ||Date: 16-18 December 2024 ||Notification: 16 September 2024 ||Rules: LIPIcs,
+	      15 pages excluding references ||
+---
+Conference: SODA ||Location: New Orleans, Lousiana, USA ||Deadline: 5 July 2024 ||Date: 12-15 January 2025 ||Notification: 6 September 2024early October 2024 ||Rules: double-blind, no page limit, but only first 10 pages read ||
+---
+Conference: CSCML ||Location:  ||Deadline: 6 or 7 July 2024 ||Date: 19-20 December 2024 ||Notification: 13 August 2024 ||Rules: LNCS, 12-15+ pages regular, 6-11 pages short ||
+---
+Conference: NMR ||Location: Hanoi, Vietnam ||Deadline: 7/12 July 2024 ||Date: 2-4 November 2024 ||Notification: 1 September 2024 ||Rules: CEUR,
+	      10 pages including references full, 3 pages excluding referencesextended abstracts;
+	      co-located with KR ||
+---
+Conference: ICLP ||Location: Dallas, Texas, USA ||Deadline: 8 July 2024 ||Date: 11-17 October 2024 ||Notification: 22 July 2024 ||Rules: EPTCS,
+	      7 pages short, 3 pages recently published, 3 pages system demonstrations, 3 pages birds of a feather ||
+---
+Conference: POPL ||Location: Denver, Colorado, USA ||Deadline: 11 July 2024 ||Date: 19-25 January 2025 ||Notification:  ||Rules: ACMart, double-blind,
+	      25 pages excluding references ||
+---
+Conference: VSTTE ||Location: Prague, Czech Republic ||Deadline: 18 July 2024 ||Date: 14-15 October 2024 ||Notification: 29 August 2024 ||Rules: LNCS, 16 pages long, 10 pages short, both excluding references;
+	      co-located with FMCAD ||
+---
+Conference: ALENEX ||Location: New Orleans, Lousiana, USA ||Deadline: 18 July 2024 ||Date: 12-13 January 2025 ||Notification: 31 Ausust 2024 ||Rules: SIAM,
+	      double-blind, 10 pages excluding front matter and references;
+	      co-located with SODA ||
+---
+Conference: CSL ||Location: Amsterdam, The Netherlands ||Deadline: 18/23 July 2024 ||Date: 10-14 February 2025 ||Notification: 27 October 2024 ||Rules: LIPIcs,
+	      double-blind, 15 pages excluding references ||
+---
+Conference: ICDCN ||Location: Hyderabad, India ||Deadline: 25 July 2024 ||Date: 4-7 January 2025 ||Notification: 27 September 2024 ||Rules: ACMart, 10 pages regular, 5 pages short ||
+---
+Conference: TERMGRAPH ||Location: post-proceedings ||Deadline: 1 August 2024 ||Date: 7 April 2024 ||Notification: 15 September 2024 ||Rules: EPTCS, 16 pages post-proceedings ||
+---
+Conference: KDD ||Location: ??? ||Deadline: 1/8 August 2024 ||Date:  ||Notification:  ||Rules:  ||
+---
+Conference: SOSA ||Location: New Orleans, Lousiana, USA ||Deadline: 5/8 August 2024 ||Date: 13-14 January 2025 ||Notification: October 2024 ||Rules: double-blind, no page limit;
+	      co-located with SODA ||
+---
+Conference: WADT ||Location: post-proceedings ||Deadline: 16 September 2024 ||Date:  ||Notification: 25 November 2024 ||Rules: dates for post-proceedings ||
+---
+Conference: WALCOM ||Location: Chengdu, China ||Deadline: 22 September 2024 ||Date: 28 February - 2 March 2025 ||Notification: 8 November 2024 ||Rules: LNCS, 14 pages ||
+---

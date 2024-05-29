@@ -99,3 +99,4 @@ def show(data):
         print(f"Notification: {item.notification}")
         print(f"Rules: {item.rules}")
         print("-" * 30)
+
