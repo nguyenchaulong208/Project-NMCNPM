@@ -11,7 +11,9 @@ get_contents = []
 while True:
     print("Crawling data, Plesea wait a minute...!!!")
     # function.show(get_contents)
+    
     get_contents = function.get_infor(source)
     function.writeData(get_contents)
+    function.filter(get_contents)
     time.sleep(30)
 

@@ -2,6 +2,7 @@
 from bs4 import BeautifulSoup
 import requests
 import data_meeting
+import datetime
 
 #-----function------
 
@@ -100,3 +101,7 @@ def show(data):
         print(f"Rules: {item.rules}")
         print("-" * 30)
 
+
+
+
+        
