@@ -6,3 +6,4 @@ class InfoMeeting:
         self.date = None
         self.notification = None
         self.rules = None
+        self.url = None

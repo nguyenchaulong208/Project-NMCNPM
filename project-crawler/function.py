@@ -2,6 +2,7 @@
 from bs4 import BeautifulSoup
 import requests
 import data_meeting
+import datetime
 
 #-----function------
 
@@ -65,6 +66,8 @@ def get_infor(contents):
             data.notification = notify.text.strip() if notify else None
             submission = item.find('td', class_='subformat') or item.find('td', class_='remark')
             data.rules = submission.text.strip() if submission else None
+            get_url = item.find('a')
+            data.url = get_url['href']
 
             data_crawl.append(data)
     return data_crawl
@@ -80,7 +83,8 @@ def writeData(exp_data):
         write_file.write(f"Deadline: {item.deadline} ||")
         write_file.write(f"Date: {item.date} ||")
         write_file.write(f"Notification: {item.notification} ||")
-        write_file.write(f"Rules: {item.rules} ||\n---\n")
+        write_file.write(f"Rules: {item.rules} ||")
+        write_file.write(f"URL: {item.url} ||\n---\n")
     write_file.close()
     print ('Export data successfully')
     print('File location:/PROJECT-NMCNPM/Export Data.txt')
@@ -100,3 +104,7 @@ def show(data):
         print(f"Rules: {item.rules}")
         print("-" * 30)
 
+
+
+
+        
