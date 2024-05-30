@@ -86,8 +86,7 @@ def writeData(exp_data):
         write_file.write(f"Rules: {item.rules} ||")
         write_file.write(f"URL: {item.url} ||\n---\n")
     write_file.close()
-    print ('Export data successfully')
-    print('File location:/PROJECT-NMCNPM/Export Data.txt')
+    
     
         
          
