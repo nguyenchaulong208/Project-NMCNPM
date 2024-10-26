@@ -1,3 +1,4 @@
+#object cua meeting
 class InfoMeeting:
     def __init__(self):
         self.conference = None
