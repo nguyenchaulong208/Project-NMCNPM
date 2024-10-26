@@ -1,0 +1,290 @@
+Conference: GD ,Location: Vienna, Austria ,Deadline: 31 May / 7 June 2024 ,Date: 18-20 September 2024 ,Notification: 20 July 2024 ,Rules: LIPIcs
+	      with own LaTeX class, double-blind,
+	      500 lines regular, 225 lines short,
+	      both excluding front matter and references ,URL: https://graphdrawing.github.io/gd2024// ,
+
+Conference: LSFA ,Location: Goiânia, Brazil ,Deadline: 31 May / 7 June 2024 ,Date: 18-20 September 2024 ,Notification: 7 August 2024 ,Rules: EPTCS, 16 pages full, 6 pages short ,URL: https://sites.google.com/ufg.br/lsfa2024 ,
+
+Conference: IOTSMS ,Location: Malmö, Sweden ,Deadline: 1 June 2024 ,Date: 2-5 September 2024 ,Notification: 15 July 2024 ,Rules: IEEE, 2 column,
+	      8 pages full regular, 6 pages short, 3 pages posters and demos ,URL: https://emergingtechnet.org/IOTSMS2024/ ,
+
+Conference: AAIM ,Location: Dallas, Texas. USA ,Deadline: 1 June 2024 ,Date: 21-23 September 2024 ,Notification: 1 July 2024 ,Rules: LNCS, 12 pages ,URL: https://theory.utdallas.edu/AAIM2024/ ,
+
+Conference: RuleML+RR ,Location: Bucharest, Romania ,Deadline: 1/7 June 2024 ,Date: 16-18 September 2024 ,Notification: 19 July 2024 ,Rules: LNCS, 15 pages long, 8 pages short ,URL: https://2024.declarativeai.net/events/ruleml-rr ,
+
+Conference: JAF ,Location: Passau, Germany ,Deadline: 2 June 2024 ,Date: 9-11 September 2024 ,Notification: 2 July 2024 ,Rules: 3 pages ,URL: https://www.uni-passau.de/en/jaf ,
+
+Conference: iFM ,Location: Manchester, UK ,Deadline: 3/10 June 2024 ,Date: 13-15 November 2024 ,Notification: 5 August 2024 ,Rules: LNCS, 16 pages regular, 6 pages short ,URL: https://ifm2024.cs.manchester.ac.uk/ ,
+
+Conference: PoS ,Location: Pune, India ,Deadline: 5 June 2024 ,Date: 20 August 2024 ,Notification: 23 June 2023 ,Rules: CEURART, 1 column,
+	      15 pages long, 8 pages short, both excluding references,8 pages competition solver description;
+	      deadline for competition solver descriptions;
+	      satellite event of SAT ,URL: http://www.pragmaticsofsat.org/2024/ ,
+
+Conference: ALGOWIN ,Location: Egham, United Kingdom ,Deadline: 7 June 2024 ,Date: 5-6 September 2024 ,Notification: 1 August 2024 ,Rules: LNCS,12 pages excluding referenes;
+	      part of ALGO ,URL: https://algo-conference.org/2024/algowin/ ,
+
+Conference: SEFM ,Location: Aveiro, Portugal ,Deadline: 7/14 June 2024 ,Date: 4-8 November 2024 ,Notification: 15 August 2024 ,Rules: LNCS, 16 pages excludinge references regular, 8 pages tool ,URL: https://sefm-conference.github.io/2024/ ,
+
+Conference: ICTCS ,Location: Torino, Italy ,Deadline: 9 June 2024 ,Date: 11-13 September 2024 ,Notification: 14 July 2024 ,Rules: LNCS, 12 pages regular, 5 pages communications, both excluding references ,URL: https://ictcs2024.di.unito.it/ ,
+
+Conference: TAP ,Location: Milan, Italy ,Deadline: 12/14 June 2024 ,Date: 9–10 September 2024 ,Notification: 5 July 2024 ,Rules: LNCS, 16 pages regular + tools + case studies, 6 pages short, all excluding references;
+	      co-located with FM ,URL: https://tapconference.github.io/2024/ ,
+
+Conference: ICTAC ,Location: Bangkok, Thailand ,Deadline: 14/21 June 2024 ,Date: 25-29 November 2024 ,Notification: 1 September 2024 ,Rules: LNCS, 16 pages excluding references full, 8 pages short and tool ,URL: https://ictac2024.cs.ait.ac.th/ ,
+
+Conference: MLCS ,Location: Vilnius, Lithuania ,Deadline: 15 June 2024 ,Date: 9-13 September 2024 ,Notification: 15 July 2024 ,Rules: LNCS, 16 pages regular, 6 pages short ,URL: https://mlcs.lasige.di.fc.ul.pt/ ,
+
+Conference: LAP ,Location: Dubrovnik, Croatia ,Deadline: 15 June 2024 ,Date: 23-27 September 2024 ,Notification: 1 July 2024 ,Rules: own format ,URL: https://lap.math.hr/LAP2024/ ,
+
+Conference: WISE ,Location: Doha, Qatar ,Deadline: 20/30 June 2024 ,Date: 2-5 December 2024 ,Notification: 30 August 2024 ,Rules: LNCS, double-blind, 15 pages ,URL: https://wise2024-qatar.com/ ,
+
+Conference: TIME ,Location: Montpellier, France ,Deadline: 21 June 2024 ,Date: 28-30 October 2024 ,Notification: 2 August 2024 ,Rules: LIPIcs,
+	      12 pages excluding references + 5 pages appendix ,URL: https://www.lirmm.fr/time2024/ ,
+
+Conference: LPNMR ,Location: Dallas, Texas, USA ,Deadline: 21/28 June 2024 ,Date: 11-14 October 2024 ,Notification: 28 July 2024 ,Rules: LNCS, 13 pages long, 6 pages short ,URL: https://lpnmr2024.demacs.unical.it/ ,
+
+Conference: RP ,Location: Vienna, Austria ,Deadline: 24/26 June 2024 ,Date: 25-27 September 2024 ,Notification: 30 July 2024 ,Rules: LNCS, 12 pages excluding references ,URL: https://easychair.org/smart-program/RP24/ ,
+
+Conference: IPEC ,Location: Egham, United Kingdom ,Deadline: 26/30 June 2024 ,Date: 4-6 September 2024 ,Notification: 5 August 2024 ,Rules: LIPIcs,
+	      no page limit, but only first 12 pages read;
+	      part of ALGO ,URL: https://algo-conference.org/2024/ipec/ ,
+
+Conference: ISAAC ,Location: Sydney, Australia ,Deadline: 28 June 2024 ,Date: 8-12 December 2024 ,Notification: 2 September 2024 ,Rules: LIPIcs,
+	      double-blind, 12 pages excluding references ,URL: https://sites.google.com/view/isaac2024/ ,
+
+Conference: ATMOS ,Location: Egham, United Kingdom ,Deadline: 30 June 2024 ,Date: 5-6 September 2024 ,Notification: 31 July 2024 ,Rules: OASIcs,
+	      12 pages excluding references regular, 6 pages short;
+	      part of ALGO ,URL: https://algo-conference.org/2024/atmos/ ,
+
+Conference: ALGOCLOUD ,Location: Egham, United Kingdom ,Deadline: 1 July 2024 ,Date: 2-3 September 2024 ,Notification: 31 July 2024 ,Rules: LNCS, 12 pages excluding references regular, 8 pages short, 10 pages survey;
+	      part of ALGO ,URL: https://algo-conference.org/2024/algocloud/ ,
+
+Conference: ICTAI ,Location: Herndon, Virginia, USA ,Deadline: 1 July 2024 ,Date: 28-30 October 2024 ,Notification: 18 August 2024 ,Rules: IEEE Transactions,
+	      double-blind, 8 pages ,URL: https://ictai.computer.org/2024/ ,
+
+Conference: WAOA ,Location: Egham, United Kingdom ,Deadline: 3 July 2024 ,Date: 5-6 September 2024 ,Notification: 31 July 2024 ,Rules: LNCS, double-blind, 10 pages excluding references;
+	      part of ALGO ,URL: https://algo-conference.org/2024/waoa/ ,
+
+Conference: FSTTCS ,Location: Gandhinagar, Gujarat, India ,Deadline: 5 July 2024 ,Date: 16-18 December 2024 ,Notification: 16 September 2024 ,Rules: LIPIcs,
+	      15 pages excluding references ,URL: https://www.fsttcs.org.in/2024/ ,
+
+Conference: SODA ,Location: New Orleans, Lousiana, USA ,Deadline: 5 July 2024 ,Date: 12-15 January 2025 ,Notification: 6 September 2024early October 2024 ,Rules: double-blind, no page limit, but only first 10 pages read ,URL: https://www.siam.org/conferences/cm/conference/soda25 ,
+
+Conference: CSCML ,Location:  ,Deadline: 6 or 7 July 2024 ,Date: 19-20 December 2024 ,Notification: 13 August 2024 ,Rules: LNCS, 12-15+ pages regular, 6-11 pages short ,URL: https://www.cscml.org/ ,
+
+Conference: NMR ,Location: Hanoi, Vietnam ,Deadline: 7/12 July 2024 ,Date: 2-4 November 2024 ,Notification: 1 September 2024 ,Rules: CEUR,
+	      10 pages including references full, 3 pages excluding referencesextended abstracts;
+	      co-located with KR ,URL: https://nmr.krportal.org/2024/ ,
+
+Conference: ICLP ,Location: Dallas, Texas, USA ,Deadline: 8 July 2024 ,Date: 11-17 October 2024 ,Notification: 22 July 2024 ,Rules: EPTCS,
+	      7 pages short, 3 pages recently published, 3 pages system demonstrations, 3 pages birds of a feather ,URL: https://www.iclp24.utdallas.edu/ ,
+
+Conference: POPL ,Location: Denver, Colorado, USA ,Deadline: 11 July 2024 ,Date: 19-25 January 2025 ,Notification:  ,Rules: ACMart, double-blind,
+	      25 pages excluding references ,URL: https://conf.researchr.org/home/POPL-2025 ,
+
+Conference: VSTTE ,Location: Prague, Czech Republic ,Deadline: 18 July 2024 ,Date: 14-15 October 2024 ,Notification: 29 August 2024 ,Rules: LNCS, 16 pages long, 10 pages short, both excluding references;
+	      co-located with FMCAD ,URL: https://www.soundandcomplete.org/vstte2024.html ,
+
+Conference: ALENEX ,Location: New Orleans, Lousiana, USA ,Deadline: 18 July 2024 ,Date: 12-13 January 2025 ,Notification: 31 Ausust 2024 ,Rules: SIAM,
+	      double-blind, 10 pages excluding front matter and references;
+	      co-located with SODA ,URL: https://www.siam.org/conferences/cm/conference/alenex25 ,
+
+Conference: CSL ,Location: Amsterdam, The Netherlands ,Deadline: 18/23 July 2024 ,Date: 10-14 February 2025 ,Notification: 27 October 2024 ,Rules: LIPIcs,
+	      double-blind, 15 pages excluding references ,URL: https://csl2025.github.io/ ,
+
+Conference: ICDCN ,Location: Hyderabad, India ,Deadline: 25 July 2024 ,Date: 4-7 January 2025 ,Notification: 27 September 2024 ,Rules: ACMart, 10 pages regular, 5 pages short ,URL: https://cse.iith.ac.in/icdcn-2025/ ,
+
+Conference: TERMGRAPH ,Location: post-proceedings ,Deadline: 1 August 2024 ,Date: 7 April 2024 ,Notification: 15 September 2024 ,Rules: EPTCS, 16 pages post-proceedings ,URL: http://termgraph.org.uk/2024/ ,
+
+Conference: KDD ,Location: ??? ,Deadline: 1/8 August 2024 ,Date:  ,Notification:  ,Rules:  ,URL: https://kdd2024.kdd.org/ ,
+
+Conference: SOSA ,Location: New Orleans, Lousiana, USA ,Deadline: 5/8 August 2024 ,Date: 13-14 January 2025 ,Notification: October 2024 ,Rules: double-blind, no page limit;
+	      co-located with SODA ,URL: https://www.siam.org/conferences/cm/conference/sosa25 ,
+
+Conference: WADT ,Location: post-proceedings ,Deadline: 16 September 2024 ,Date:  ,Notification: 25 November 2024 ,Rules: dates for post-proceedings ,URL: https://conf.researchr.org/home/wadt-2024 ,
+
+Conference: WALCOM ,Location: Chengdu, China ,Deadline: 22 September 2024 ,Date: 28 February - 2 March 2025 ,Notification: 8 November 2024 ,Rules: LNCS, 14 pages ,URL: https://tcsuestc.com/walcom2025 ,
+
+Conference: ICSA 2024 ,Location: Tue 4 - Sat 8 June 2024 Hyderabad, Telangana, India ,Deadline: None ,Date: Tue 4 - Sat 8 June 2024 Hyderabad, Telangana, India ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/icsa-2024 ,
+
+Conference: EASE 2024 ,Location: Tue 18 - Fri 21 June 2024 Salerno, Italy ,Deadline: None ,Date: Tue 18 - Fri 21 June 2024 Salerno, Italy ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/ease-2024 ,
+
+Conference: ICT4S 2024 ,Location: Mon 24 - Fri 28 June 2024 Stockholm, Sweden ,Deadline: None ,Date: Mon 24 - Fri 28 June 2024 Stockholm, Sweden ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/ict4s-2024 ,
+
+Conference: Requirements Engineering 2024 ,Location: Mon 24 - Fri 28 June 2024 Reykjavik, Iceland ,Deadline: None ,Date: Mon 24 - Fri 28 June 2024 Reykjavik, Iceland ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/RE-2024 ,
+
+Conference: PLDI 2024 ,Location: Mon 24 - Fri 28 June 2024 Copenhagen, Denmark ,Deadline: None ,Date: Mon 24 - Fri 28 June 2024 Copenhagen, Denmark ,Notification: None ,Rules: None ,URL: https://pldi24.sigplan.org/ ,
+
+Conference: STAF 2024 ,Location: Mon 8 - Thu 11 July 2024 Enschede, Netherlands ,Deadline: None ,Date: Mon 8 - Thu 11 July 2024 Enschede, Netherlands ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/staf-2024 ,
+
+Conference: FSE 2024 ,Location: Mon 15 - Fri 19 July 2024 Porto de Galinhas, Brazil, Brazil ,Deadline: None ,Date: Mon 15 - Fri 19 July 2024 Porto de Galinhas, Brazil, Brazil ,Notification: None ,Rules: None ,URL: https://2024.esec-fse.org/ ,
+
+Conference: Internetware 2024 ,Location: Wed 24 - Fri 26 July 2024 Macau, China ,Deadline: None ,Date: Wed 24 - Fri 26 July 2024 Macau, China ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/internetware-2024 ,
+
+Conference: CSEE&T 2024 ,Location: Mon 29 July - Thu 1 August 2024 Würzburg, Germany ,Deadline: None ,Date: Mon 29 July - Thu 1 August 2024 Würzburg, Germany ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/cseet-2024 ,
+
+Conference: ICER 2024 ,Location: Tue 13 - Thu 15 August 2024 Melbourne, Victoria, Australia ,Deadline: None ,Date: Tue 13 - Thu 15 August 2024 Melbourne, Victoria, Australia ,Notification: None ,Rules: None ,URL: https://icer2024.acm.org/ ,
+
+Conference: VL/HCC 2024 ,Location: Mon 2 - Fri 6 September 2024 Liverpool, United Kingdom ,Deadline: None ,Date: Mon 2 - Fri 6 September 2024 Liverpool, United Kingdom ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/vlhcc-2024 ,
+
+Conference: ECSA 2024 ,Location: Mon 2 - Fri 6 September 2024 Luxembourg, Luxembourg ,Deadline: None ,Date: Mon 2 - Fri 6 September 2024 Luxembourg, Luxembourg ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/ecsa-2024 ,
+
+Conference: ICFP 2024 ,Location: Mon 2 - Sat 7 September 2024 Milan, Italy ,Deadline: None ,Date: Mon 2 - Sat 7 September 2024 Milan, Italy ,Notification: None ,Rules: None ,URL: https://icfp24.sigplan.org/ ,
+
+Conference: ECBS 2024 ,Location: Tue 10 - Thu 12 September 2024 Ilmenau ,Deadline: None ,Date: Tue 10 - Thu 12 September 2024 Ilmenau ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/ecbs-2024 ,
+
+Conference: ACSOS 2024 ,Location: Mon 16 - Fri 20 September 2024 Aarhus, Denmark ,Deadline: None ,Date: Mon 16 - Fri 20 September 2024 Aarhus, Denmark ,Notification: None ,Rules: None ,URL: https://2024.acsos.org/ ,
+
+Conference: ISSTA/ECOOP 2024 ,Location: Mon 16 - Fri 20 September 2024 Vienna, Austria ,Deadline: None ,Date: Mon 16 - Fri 20 September 2024 Vienna, Austria ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/issta-ecoop-2024 ,
+
+Conference: EDTConf 2024 ,Location: Mon 23 - Tue 24 September 2024 Linz, Austria ,Deadline: None ,Date: Mon 23 - Tue 24 September 2024 Linz, Austria ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/edtconf-2024 ,
+
+Conference: MODELS 2024 ,Location: Sun 22 - Fri 27 September 2024 Linz, Austria ,Deadline: None ,Date: Sun 22 - Fri 27 September 2024 Linz, Austria ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/models-2024 ,
+
+Conference: ICSME 2024 ,Location: Sun 6 - Fri 11 October 2024 ,Deadline: None ,Date: Sun 6 - Fri 11 October 2024 ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/icsme-2024 ,
+
+Conference: ESEIW 2024 ,Location: Sun 20 - Fri 25 October 2024 Barcelona, Spain ,Deadline: None ,Date: Sun 20 - Fri 25 October 2024 Barcelona, Spain ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/esem-2024 ,
+
+Conference: APLAS 2024 ,Location: Tue 22 - Fri 25 October 2024 Kyoto ,Deadline: None ,Date: Tue 22 - Fri 25 October 2024 Kyoto ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/aplas-2024 ,
+
+Conference: SPLASH 2024 ,Location: Sun 20 - Fri 25 October 2024 Pasadena, California, United States ,Deadline: None ,Date: Sun 20 - Fri 25 October 2024 Pasadena, California, United States ,Notification: None ,Rules: None ,URL: https://2024.splashcon.org/ ,
+
+Conference: ACM ISS 2024 ,Location: Sun 27 - Wed 30 October 2024 Vancouver, Canada ,Deadline: None ,Date: Sun 27 - Wed 30 October 2024 Vancouver, Canada ,Notification: None ,Rules: None ,URL: https://iss2024.acm.org/ ,
+
+Conference: ASE 2024 ,Location: Sun 27 October - Fri 1 November 2024 Sacramento, California, United States ,Deadline: None ,Date: Sun 27 October - Fri 1 November 2024 Sacramento, California, United States ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/ase-2024 ,
+
+Conference: ICTSS 2024 ,Location: Wed 30 October - Fri 1 November 2024 London, United Kingdom ,Deadline: None ,Date: Wed 30 October - Fri 1 November 2024 London, United Kingdom ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/ictss-2024 ,
+
+Conference: PROFES 2024 ,Location: Mon 2 - Wed 4 December 2024 Tartu, Estonia ,Deadline: None ,Date: Mon 2 - Wed 4 December 2024 Tartu, Estonia ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/profes-2024 ,
+
+Conference: APSEC 2024 ,Location: Tue 3 - Fri 6 December 2024 Chongqing, China ,Deadline: None ,Date: Tue 3 - Fri 6 December 2024 Chongqing, China ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/apsec-2024 ,
+
+Conference: SIGCSE Virtual 2024 ,Location: Thu 5 - Sun 8 December 2024 ,Deadline: None ,Date: Thu 5 - Sun 8 December 2024 ,Notification: None ,Rules: None ,URL: https://sigcsevirtual.acm.org/ ,
+
+Conference: POPL 2025 ,Location: Sun 19 - Sat 25 January 2025 Denver, Colorado, United States ,Deadline: None ,Date: Sun 19 - Sat 25 January 2025 Denver, Colorado, United States ,Notification: None ,Rules: None ,URL: https://popl25.sigplan.org/ ,
+
+Conference: ISEC 2025 ,Location: Thu 20 - Sat 22 February 2025 Kurukshetra , India ,Deadline: None ,Date: Thu 20 - Sat 22 February 2025 Kurukshetra , India ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/isec-2025 ,
+
+Conference: CGO 2025 ,Location: Sat 1 - Wed 5 March 2025 Las Vegas, Nevada, United States ,Deadline: None ,Date: Sat 1 - Wed 5 March 2025 Las Vegas, Nevada, United States ,Notification: None ,Rules: None ,URL: https://2025.cgo.org/ ,
+
+Conference: SANER 2025 ,Location: Tue 4 - Fri 7 March 2025 Montréal, Québec, Canada ,Deadline: None ,Date: Tue 4 - Fri 7 March 2025 Montréal, Québec, Canada ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/saner-2025 ,
+
+Conference: ICST 2025 ,Location: Mon 31 March - Fri 4 April 2025 Naples, Italy ,Deadline: None ,Date: Mon 31 March - Fri 4 April 2025 Naples, Italy ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/icst-2025 ,
+
+Conference: FSEN 2025 ,Location: Mon 7 - Tue 8 April 2025 Västerås, Sweden ,Deadline: None ,Date: Mon 7 - Tue 8 April 2025 Västerås, Sweden ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/fsen-2025 ,
+
+Conference: REFSQ 2025 ,Location: Mon 7 - Thu 10 April 2025 Barcelona, Spain ,Deadline: None ,Date: Mon 7 - Thu 10 April 2025 Barcelona, Spain ,Notification: None ,Rules: None ,URL: https://2025.refsq.org/ ,
+
+Conference: ICSE 2025 ,Location: Sat 26 April - Sun 4 May 2025 Ottawa, Ontario, Canada ,Deadline: None ,Date: Sat 26 April - Sun 4 May 2025 Ottawa, Ontario, Canada ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/icse-2025 ,
+
+Conference: FSE 2025 ,Location: Mon 23 - Fri 27 June 2025 Trondheim, Norway ,Deadline: None ,Date: Mon 23 - Fri 27 June 2025 Trondheim, Norway ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/fse-2025 ,
+
+Conference: ISSTA 2025 ,Location: Wed 25 - Sat 28 June 2025 Trondheim, Norway ,Deadline: None ,Date: Wed 25 - Sat 28 June 2025 Trondheim, Norway ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/issta-2025 ,
+
+Conference: ICSME 2025 ,Location: Mon 8 - Sat 13 September 2025 Auckland, New Zealand ,Deadline: None ,Date: Mon 8 - Sat 13 September 2025 Auckland, New Zealand ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/icsme-2025 ,
+
+Conference: ‹Programming› 2025 ,Location: Dates to be announced Prague, Czech Republic ,Deadline: None ,Date: Dates to be announced Prague, Czech Republic ,Notification: None ,Rules: None ,URL: https://2025.programming-conference.org/ ,
+
+Conference: ICST 2024 ,Location: Mon 27 - Fri 31 May 2024 Canada ,Deadline: None ,Date: Mon 27 - Fri 31 May 2024 Canada ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/icst-2024 ,
+
+Conference: FLOPS 2024 ,Location: Wed 15 - Fri 17 May 2024 Kumamoto, Japan ,Deadline: None ,Date: Wed 15 - Fri 17 May 2024 Kumamoto, Japan ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/flops-2024 ,
+
+Conference: CIbSE 2024 ,Location: Mon 6 - Fri 10 May 2024 Curitiba, Brazil ,Deadline: None ,Date: Mon 6 - Fri 10 May 2024 Curitiba, Brazil ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/cibse-2024 ,
+
+Conference: ICSE 2024 ,Location: Fri 12 - Sun 21 April 2024 Lisbon, Portugal ,Deadline: None ,Date: Fri 12 - Sun 21 April 2024 Lisbon, Portugal ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/icse-2024 ,
+
+Conference: REFSQ 2024 ,Location: Mon 8 - Thu 11 April 2024 Winterthur, Switzerland ,Deadline: None ,Date: Mon 8 - Thu 11 April 2024 Winterthur, Switzerland ,Notification: None ,Rules: None ,URL: https://2024.refsq.org/ ,
+
+Conference: SIGCSE TS 2024 ,Location: Wed 20 - Sat 23 March 2024 Portland, Oregon, United States ,Deadline: None ,Date: Wed 20 - Sat 23 March 2024 Portland, Oregon, United States ,Notification: None ,Rules: None ,URL: https://www.sigcse2024.org/ ,
+
+Conference: ‹Programming› 2024 ,Location: Mon 11 - Fri 15 March 2024 Lund, Sweden ,Deadline: None ,Date: Mon 11 - Fri 15 March 2024 Lund, Sweden ,Notification: None ,Rules: None ,URL: https://2024.programming-conference.org/ ,
+
+Conference: SANER 2024 ,Location: Tue 12 - Fri 15 March 2024 Rovaniemi , Finland ,Deadline: None ,Date: Tue 12 - Fri 15 March 2024 Rovaniemi , Finland ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/saner-2024 ,
+
+Conference: CGO 2024 ,Location: Sat 2 - Wed 6 March 2024 Edinburgh, United Kingdom ,Deadline: None ,Date: Sat 2 - Wed 6 March 2024 Edinburgh, United Kingdom ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/cgo-2024 ,
+
+Conference: PPoPP 2024 ,Location: Sat 2 - Wed 6 March 2024 Edinburgh, United Kingdom ,Deadline: None ,Date: Sat 2 - Wed 6 March 2024 Edinburgh, United Kingdom ,Notification: None ,Rules: None ,URL: https://www.ppopp.org/ ,
+
+Conference: CC 2024 ,Location: Sat 2 - Sun 3 March 2024 Edinburgh, United Kingdom ,Deadline: None ,Date: Sat 2 - Sun 3 March 2024 Edinburgh, United Kingdom ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/CC-2024 ,
+
+Conference: 17th Innovations in Software Engineering Conference (ISEC 2024) ,Location: Thu 22 - Sat 24 February 2024 Bangalore, India ,Deadline: None ,Date: Thu 22 - Sat 24 February 2024 Bangalore, India ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/isec-2024 ,
+
+Conference: POPL 2024 ,Location: Sun 14 - Sat 20 January 2024 London, United Kingdom ,Deadline: None ,Date: Sun 14 - Sat 20 January 2024 London, United Kingdom ,Notification: None ,Rules: None ,URL: https://popl24.sigplan.org/ ,
+
+Conference: PROFES 2023 ,Location: Sun 10 - Wed 13 December 2023 Dornbirn, Austria ,Deadline: None ,Date: Sun 10 - Wed 13 December 2023 Dornbirn, Austria ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/profes-2023 ,
+
+Conference: ESEC/FSE 2023 ,Location: Sun 3 - Sat 9 December 2023 San Francisco, California, United States ,Deadline: None ,Date: Sun 3 - Sat 9 December 2023 San Francisco, California, United States ,Notification: None ,Rules: None ,URL: https://2023.esec-fse.org/ ,
+
+Conference: APSEC 2023 ,Location: Mon 4 - Thu 7 December 2023 Seoul, South Korea ,Deadline: None ,Date: Mon 4 - Thu 7 December 2023 Seoul, South Korea ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/apsec-2023 ,
+
+Conference: APLAS 2023 ,Location: Sun 26 - Wed 29 November 2023 Taipei, Taiwan ,Deadline: None ,Date: Sun 26 - Wed 29 November 2023 Taipei, Taiwan ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/aplas-2023 ,
+
+Conference: ACM ISS 2023 ,Location: Sun 5 - Wed 8 November 2023 ,Deadline: None ,Date: Sun 5 - Wed 8 November 2023 ,Notification: None ,Rules: None ,URL: https://iss2023.acm.org/ ,
+
+Conference: SPLASH 2023 ,Location: Sun 22 - Fri 27 October 2023 Cascais, Portugal ,Deadline: None ,Date: Sun 22 - Fri 27 October 2023 Cascais, Portugal ,Notification: None ,Rules: None ,URL: https://2023.splashcon.org/ ,
+
+Conference: ESEIW 2023 ,Location: Sun 22 - Fri 27 October 2023 New Orleans, Louisiana, United States ,Deadline: None ,Date: Sun 22 - Fri 27 October 2023 New Orleans, Louisiana, United States ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/esem-2023 ,
+
+Conference: ECBS 2023 ,Location: Mon 16 - Wed 18 October 2023 Västerås, Sweden ,Deadline: None ,Date: Mon 16 - Wed 18 October 2023 Västerås, Sweden ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/ecbs-2023 ,
+
+Conference: MODELS 2023 ,Location: Sun 1 - Fri 6 October 2023 Västerås, Sweden ,Deadline: None ,Date: Sun 1 - Fri 6 October 2023 Västerås, Sweden ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/models-2023 ,
+
+Conference: ICSME 2023 ,Location: Sun 1 - Fri 6 October 2023 Bogotá, Colombia ,Deadline: None ,Date: Sun 1 - Fri 6 October 2023 Bogotá, Colombia ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/icsme-2023 ,
+
+Conference: VL/HCC 2023 ,Location: Mon 2 - Fri 6 October 2023 Washington, DC, United States ,Deadline: None ,Date: Mon 2 - Fri 6 October 2023 Washington, DC, United States ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/vlhcc-2023 ,
+
+Conference: ACSOS 2023 ,Location: Mon 25 - Fri 29 September 2023 Toronto, Canada ,Deadline: None ,Date: Mon 25 - Fri 29 September 2023 Toronto, Canada ,Notification: None ,Rules: None ,URL: https://2023.acsos.org/ ,
+
+Conference: ECSA 2023 ,Location: Mon 18 - Fri 22 September 2023 Istanbul, Turkey ,Deadline: None ,Date: Mon 18 - Fri 22 September 2023 Istanbul, Turkey ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/ecsa-2023 ,
+
+Conference: ICTSS 2023 ,Location: Mon 18 - Wed 20 September 2023 Bergamo, Italy ,Deadline: None ,Date: Mon 18 - Wed 20 September 2023 Bergamo, Italy ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/ictss-2023 ,
+
+Conference: ASE 2023 ,Location: Mon 11 - Fri 15 September 2023 Kirchberg, Luxembourg ,Deadline: None ,Date: Mon 11 - Fri 15 September 2023 Kirchberg, Luxembourg ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/ase-2023 ,
+
+Conference: ICFP 2023 ,Location: Mon 4 - Sat 9 September 2023 Seattle, Washington, United States ,Deadline: None ,Date: Mon 4 - Sat 9 September 2023 Seattle, Washington, United States ,Notification: None ,Rules: None ,URL: https://icfp23.sigplan.org/ ,
+
+Conference: Requirements Engineering 2023 ,Location: Mon 4 - Fri 8 September 2023 Hannover, Germany ,Deadline: None ,Date: Mon 4 - Fri 8 September 2023 Hannover, Germany ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/RE-2023 ,
+
+Conference: ICER 2023 ,Location: Tue 8 - Thu 10 August 2023 Chicago, Illinois, United States ,Deadline: None ,Date: Tue 8 - Thu 10 August 2023 Chicago, Illinois, United States ,Notification: None ,Rules: None ,URL: https://icer2023.acm.org/ ,
+
+Conference: CSEE&T 2023 ,Location: Mon 7 - Wed 9 August 2023 Tokyo, Japan ,Deadline: None ,Date: Mon 7 - Wed 9 August 2023 Tokyo, Japan ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/cseet-2023 ,
+
+Conference: ECOOP and ISSTA 2023 ,Location: Mon 17 - Fri 21 July 2023 Seattle (University of Washington campus), Washington, United States ,Deadline: None ,Date: Mon 17 - Fri 21 July 2023 Seattle (University of Washington campus), Washington, United States ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/ecoop-issta-2023 ,
+
+Conference: STAF 2023 ,Location: Tue 18 - Fri 21 July 2023 Leicester, United Kingdom ,Deadline: None ,Date: Tue 18 - Fri 21 July 2023 Leicester, United Kingdom ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/staf-2023 ,
+
+Conference: PLDI 2023 ,Location: Sat 17 - Wed 21 June 2023 Orlando, Florida, United States ,Deadline: None ,Date: Sat 17 - Wed 21 June 2023 Orlando, Florida, United States ,Notification: None ,Rules: None ,URL: https://pldi23.sigplan.org/ ,
+
+Conference: EASE 2023 ,Location: Tue 13 - Fri 16 June 2023 Oulu, Finland ,Deadline: None ,Date: Tue 13 - Fri 16 June 2023 Oulu, Finland ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/ease-2023 ,
+
+Conference: ICT4S 2023 ,Location: Mon 5 - Sat 10 June 2023 RENNES, France ,Deadline: None ,Date: Mon 5 - Sat 10 June 2023 RENNES, France ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/ict4s-2023 ,
+
+Conference: ICSE 2023 ,Location: Sun 14 - Sat 20 May 2023 Melbourne, Australia ,Deadline: None ,Date: Sun 14 - Sat 20 May 2023 Melbourne, Australia ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/icse-2023 ,
+
+Conference: CIbSE 2023 ,Location: Mon 24 - Fri 28 April 2023 Montevideo, Uruguay ,Deadline: None ,Date: Mon 24 - Fri 28 April 2023 Montevideo, Uruguay ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/cibse-2023 ,
+
+Conference: REFSQ 2023 ,Location: Mon 17 - Thu 20 April 2023 Barcelona, Spain ,Deadline: None ,Date: Mon 17 - Thu 20 April 2023 Barcelona, Spain ,Notification: None ,Rules: None ,URL: https://2023.refsq.org/ ,
+
+Conference: ICST 2023 ,Location: Sun 16 - Thu 20 April 2023 Dublin, Ireland ,Deadline: None ,Date: Sun 16 - Thu 20 April 2023 Dublin, Ireland ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/icst-2023 ,
+
+Conference: EVCS ,Location: Wed 5 Apr 2023 Delft, Netherlands ,Deadline: None ,Date: Wed 5 Apr 2023 Delft, Netherlands ,Notification: None ,Rules: None ,URL: https://symposium.eelcovisser.org/ ,
+
+Conference: tinyML Research Symposium 2023 ,Location: Mon 27 Mar 2023 ,Deadline: None ,Date: Mon 27 Mar 2023 ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/tinyml-symp-2023 ,
+
+Conference: SIGCSE TS 2023 ,Location: Wed 15 - Sat 18 March 2023 Online and in Toronto, Canada ,Deadline: None ,Date: Wed 15 - Sat 18 March 2023 Online and in Toronto, Canada ,Notification: None ,Rules: None ,URL: https://sigcse2023.sigcse.org/ ,
+
+Conference: ‹Programming› 2023 ,Location: Mon 13 - Fri 17 March 2023 Tokyo, Japan ,Deadline: None ,Date: Mon 13 - Fri 17 March 2023 Tokyo, Japan ,Notification: None ,Rules: None ,URL: https://2023.programming-conference.org/ ,
+
+Conference: PPoPP 2023 ,Location: Sat 25 February - Wed 1 March 2023 Montreal, Canada ,Deadline: None ,Date: Sat 25 February - Wed 1 March 2023 Montreal, Canada ,Notification: None ,Rules: None ,URL: https://ppopp23.sigplan.org/ ,
+
+Conference: CGO 2023 ,Location: Sat 25 February - Wed 1 March 2023 Montreal, Canada ,Deadline: None ,Date: Sat 25 February - Wed 1 March 2023 Montreal, Canada ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/cgo-2023 ,
+
+Conference: CC 2023 ,Location: Sat 25 - Sun 26 February 2023 Montréal, Canada ,Deadline: None ,Date: Sat 25 - Sun 26 February 2023 Montréal, Canada ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/CC-2023 ,
+
+Conference: POPL 2023 ,Location: Sun 15 - Sat 21 January 2023 Boston, Massachusetts, United States ,Deadline: None ,Date: Sun 15 - Sat 21 January 2023 Boston, Massachusetts, United States ,Notification: None ,Rules: None ,URL: https://popl23.sigplan.org/ ,
+
+Conference: SPLASH 2022 ,Location: Mon 5 - Sat 10 December 2022 Auckland, New Zealand ,Deadline: None ,Date: Mon 5 - Sat 10 December 2022 Auckland, New Zealand ,Notification: None ,Rules: None ,URL: https://2022.splashcon.org/ ,
+
+Conference: APSEC 2022 ,Location: Tue 6 - Fri 9 December 2022 ,Deadline: None ,Date: Tue 6 - Fri 9 December 2022 ,Notification: None ,Rules: None ,URL: https://conf.researchr.org/home/apsec-2022 ,
+

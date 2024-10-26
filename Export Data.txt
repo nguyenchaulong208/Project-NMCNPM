@@ -1,12 +1,3 @@
-Conference: FACS ||Location: Milan, Italy ||Deadline: 23/30 May 2024 ||Date: 9-10 September 2024 ||Notification: 3 July 2024 ||Rules: LNCS, 16 pages full, 6 pages short, 16 pages special tract, all excluding references;
-	      co-located with FM ||URL: https://facs-conference.github.io/2024/ ||
----
-Conference: ADT ||Location: Piscataway, New Jersey, USA ||Deadline: 24/31 May 2024 ||Date: 14-16 October 2024 ||Notification: 19 July 2024 ||Rules: LNCS, 15 pages ||URL: https://preflib.github.io/adt2024/ ||
----
-Conference: RP ||Location: Vienna, Austria ||Deadline: 27/30 May 2024 ||Date: 25-27 September 2024 ||Notification: 11 July 2024 ||Rules: LNCS, 12 pages excluding references ||URL: https://easychair.org/smart-program/RP24/ ||
----
-Conference: APLAS ||Location: Kyoto, Japan ||Deadline: 31 May 2024 ||Date: 22-25 October 2024 ||Notification: 2 August 2024 ||Rules: LNCS, 17 pages excluding references ||URL: https://conf.researchr.org/home/aplas-2024 ||
----
 Conference: GD ||Location: Vienna, Austria ||Deadline: 31 May / 7 June 2024 ||Date: 18-20 September 2024 ||Notification: 20 July 2024 ||Rules: LIPIcs
 	      with own LaTeX class, double-blind,
 	      500 lines regular, 225 lines short,
@@ -53,15 +44,14 @@ Conference: TIME ||Location: Montpellier, France ||Deadline: 21 June 2024 ||Date
 ---
 Conference: LPNMR ||Location: Dallas, Texas, USA ||Deadline: 21/28 June 2024 ||Date: 11-14 October 2024 ||Notification: 28 July 2024 ||Rules: LNCS, 13 pages long, 6 pages short ||URL: https://lpnmr2024.demacs.unical.it/ ||
 ---
+Conference: RP ||Location: Vienna, Austria ||Deadline: 24/26 June 2024 ||Date: 25-27 September 2024 ||Notification: 30 July 2024 ||Rules: LNCS, 12 pages excluding references ||URL: https://easychair.org/smart-program/RP24/ ||
+---
 Conference: IPEC ||Location: Egham, United Kingdom ||Deadline: 26/30 June 2024 ||Date: 4-6 September 2024 ||Notification: 5 August 2024 ||Rules: LIPIcs,
 	      no page limit, but only first 12 pages read;
 	      part of ALGO ||URL: https://algo-conference.org/2024/ipec/ ||
 ---
 Conference: ISAAC ||Location: Sydney, Australia ||Deadline: 28 June 2024 ||Date: 8-12 December 2024 ||Notification: 2 September 2024 ||Rules: LIPIcs,
 	      double-blind, 12 pages excluding references ||URL: https://sites.google.com/view/isaac2024/ ||
----
-Conference: FedCSIS ||Location: Belgrade, Serbia ||Deadline: 28 May 2024 ||Date: 8-11 September 2024 ||Notification: 18 June 2024 ||Rules: own format,
-	      12 pages full, 6 pages short, 8 pages communication ||URL: https://2024.fedcsis.org/ ||
 ---
 Conference: ATMOS ||Location: Egham, United Kingdom ||Deadline: 30 June 2024 ||Date: 5-6 September 2024 ||Notification: 31 July 2024 ||Rules: OASIcs,
 	      12 pages excluding references regular, 6 pages short;
@@ -115,8 +105,6 @@ Conference: SOSA ||Location: New Orleans, Lousiana, USA ||Deadline: 5/8 August 2
 Conference: WADT ||Location: post-proceedings ||Deadline: 16 September 2024 ||Date:  ||Notification: 25 November 2024 ||Rules: dates for post-proceedings ||URL: https://conf.researchr.org/home/wadt-2024 ||
 ---
 Conference: WALCOM ||Location: Chengdu, China ||Deadline: 22 September 2024 ||Date: 28 February - 2 March 2025 ||Notification: 8 November 2024 ||Rules: LNCS, 14 pages ||URL: https://tcsuestc.com/walcom2025 ||
----
-Conference: ICST 2024 ||Location: Mon 27 - Fri 31 May 2024 Canada ||Deadline: None ||Date: Mon 27 - Fri 31 May 2024 Canada ||Notification: None ||Rules: None ||URL: https://conf.researchr.org/home/icst-2024 ||
 ---
 Conference: ICSA 2024 ||Location: Tue 4 - Sat 8 June 2024 Hyderabad, Telangana, India ||Deadline: None ||Date: Tue 4 - Sat 8 June 2024 Hyderabad, Telangana, India ||Notification: None ||Rules: None ||URL: https://conf.researchr.org/home/icsa-2024 ||
 ---
@@ -197,6 +185,8 @@ Conference: ISSTA 2025 ||Location: Wed 25 - Sat 28 June 2025 Trondheim, Norway |
 Conference: ICSME 2025 ||Location: Mon 8 - Sat 13 September 2025 Auckland, New Zealand ||Deadline: None ||Date: Mon 8 - Sat 13 September 2025 Auckland, New Zealand ||Notification: None ||Rules: None ||URL: https://conf.researchr.org/home/icsme-2025 ||
 ---
 Conference: ‹Programming› 2025 ||Location: Dates to be announced Prague, Czech Republic ||Deadline: None ||Date: Dates to be announced Prague, Czech Republic ||Notification: None ||Rules: None ||URL: https://2025.programming-conference.org/ ||
+---
+Conference: ICST 2024 ||Location: Mon 27 - Fri 31 May 2024 Canada ||Deadline: None ||Date: Mon 27 - Fri 31 May 2024 Canada ||Notification: None ||Rules: None ||URL: https://conf.researchr.org/home/icst-2024 ||
 ---
 Conference: FLOPS 2024 ||Location: Wed 15 - Fri 17 May 2024 Kumamoto, Japan ||Deadline: None ||Date: Wed 15 - Fri 17 May 2024 Kumamoto, Japan ||Notification: None ||Rules: None ||URL: https://conf.researchr.org/home/flops-2024 ||
 ---
